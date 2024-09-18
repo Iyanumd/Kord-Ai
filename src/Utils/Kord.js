@@ -165,7 +165,7 @@ async function kordAi(io, app) {
                  const code = await sock.requestPairingCode(number);
                  console.log(chalk.greenBright(`Pairing Code for ${number}: ${code}`));
     }
-}, 5000);
+}, 30000);
              }
 
             if (connection === "open") {
