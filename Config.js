@@ -1,7 +1,7 @@
 global.settings = {
-    OWNER_NUMBERS: "2347013159244",
-    OWNER_NAME: 'Miracle',
-    BOT_NAME: "KORD",
+    OWNER_NUMBERS: "2347046943219",
+    OWNER_NAME: 'ɴᴇxᴜꜱ',
+    BOT_NAME: "ɴᴇxᴜꜱ",
     VERSION: 'V1.0.0',
     MONGO_DB_URL: 'mongodb+srv://miracle32669:Iyanu1234@cluster0.m7glm.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0',
     WORK_MODE: "Public",
